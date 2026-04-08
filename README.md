@@ -55,4 +55,4 @@ Breathily uses one or more **Intel RealSense** depth cameras pointed at a seated
 
 ## Contact
 
-Franklin Heng — heng.franklin@berkeley.edu
+Franklin Heng — heng.franklin@gmail.com
