@@ -15,6 +15,7 @@ Breathily was a startup developing a contactless device to make **lung function 
 - 🥈 **2nd Place**, UC Launch Accelerator Program
 - 💰 Funding & support from the **UCSF Catalyst Program**
 - 🔬 **NSF I-Corps** participant
+- 📜 **US Patent Application** [US20240090795A1](https://patents.google.com/patent/US20240090795A1/en)
 
 ## How it works
 
