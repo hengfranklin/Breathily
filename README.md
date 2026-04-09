@@ -14,13 +14,13 @@ Breathily was a startup developing a contactless device to make **lung function 
 
 Side-by-side comparison of Breathily with a traditional spirometer:
 
-<video src="https://github.com/user-attachments/assets/3f4d1946-0624-4dc7-89a1-16791fc3686b" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/5c532dcd-fda9-4f38-88f9-b5619a01f09d" controls width="100%"></video>
 
 ### Clinical Lab Testing
 
 Device testing setup at the UCSF Adult Pulmonary Function Lab, used during our IRB-approved clinical studies:
 
-<video src="https://github.com/user-attachments/assets/5c532dcd-fda9-4f38-88f9-b5619a01f09d" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/3f4d1946-0624-4dc7-89a1-16791fc3686b" controls width="100%"></video>
 
 ## Recognition
 
