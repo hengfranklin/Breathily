@@ -74,7 +74,7 @@ The enclosure was designed to be a self-contained, portable unit housing all com
 
 ## Clinical Study
 
-Breathily ran an **IRB-approved clinical study at the UCSF Adult Pulmonary Function Lab** to validate the vision-based approach against gold-standard spirometry. The study recorded **12 patients across 61 spirometry efforts**, collecting simultaneous depth camera and spirometer data.
+Breathily ran an **IRB-approved clinical study at the UCSF Adult Pulmonary Function Lab** to validate the vision-based approach against gold-standard spirometry, collecting simultaneous depth camera and spirometer data.
 
 <p align="center">
   <img src="media/clinical_study_setup_cropped.png" alt="Clinical study setup at UCSF Pulmonary Function Lab" width="100%">
