@@ -62,9 +62,13 @@ The enclosure was designed to be a self-contained, portable unit housing all com
 
 ### Final 3D-Printed Device
 
-<p align="center">
-  <img src="media/breathily_3d_printed.png" alt="Final 3D printed device" width="80%">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="media/breathily_3d_printed_front.png" alt="Final 3D printed device — front view"></td>
+    <td><img src="media/breathily_3d_printed_side.png" alt="Final 3D printed device — side view"></td>
+    <td><img src="media/breathily_3d_printed_setup.png" alt="Final 3D printed device — full setup"></td>
+  </tr>
+</table>
 
 <p align="center"><em>The final 3D-printed frame with Intel RealSense camera on adjustable tripod and integrated touchscreen</em></p>
 
@@ -73,10 +77,10 @@ The enclosure was designed to be a self-contained, portable unit housing all com
 Breathily ran an **IRB-approved clinical study at the UCSF Adult Pulmonary Function Lab** to validate the vision-based approach against gold-standard spirometry. The study recorded **12 patients across 61 spirometry efforts**, collecting simultaneous depth camera and spirometer data.
 
 <p align="center">
-  <img src="media/clinical_study_setup.png" alt="Clinical study setup at UCSF Pulmonary Function Lab" width="100%">
+  <img src="media/clinical_study_setup_cropped.png" alt="Clinical study setup at UCSF Pulmonary Function Lab" width="100%">
 </p>
 
-<p align="center"><em>Clinical study setup at the UCSF Adult Pulmonary Function Lab — patient performing spirometry (left, center) and the Breathily device with depth camera and touchscreen (right)</em></p>
+<p align="center"><em>Clinical study setup at the UCSF Adult Pulmonary Function Lab — patient performing spirometry (left) and rear view showing the Breathily device capturing chest movement (right)</em></p>
 
 ### Study Setup
 
